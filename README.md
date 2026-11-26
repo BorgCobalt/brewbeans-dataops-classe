@@ -30,3 +30,4 @@ python scripts/groupe1/preparer_ventes.py
 Cette commande n'est utilisable qu'après la préparation des fichiers du groupe. Remplacer `groupe1` pour les autres binômes et adapter la constante `GROUPE` du script.
 
 Les données sont entièrement fictives. Ne pas publier de données clients réelles ni de secrets.
+Test bidule machin truc
